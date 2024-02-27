@@ -1,7 +1,8 @@
-.env
-.vscode
-
 bin
+.idea
+.vscode
 __pycache__
-backend_app.log
 
+.env
+backend_app.log
+.python-version
